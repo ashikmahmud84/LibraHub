@@ -1,0 +1,6 @@
+{
+  "name": "LibraHub - Modern Library Management System",
+  "description": "A premium, modern Library Management System with rich book cataloging, advanced search, book details, and patron access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
