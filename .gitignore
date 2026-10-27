@@ -1,9 +1,19 @@
 node_modules/
+frontend/node_modules/
+backend/node_modules/
 build/
 dist/
+frontend/dist/
 coverage/
 .DS_Store
 *.log
 .env*
 .env.local
-!.env.example
+**/.env*
+!**/.env.example
+
+# Firebase / Google service-account credential files
+*service-account*.json
+*serviceAccount*.json
+*firebase-adminsdk*.json
+*google-credentials*.json
